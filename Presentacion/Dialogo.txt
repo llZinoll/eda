@@ -1,0 +1,71 @@
+Diapositiva 1:
+
+Hola buenas me llamos Zino,
+Tengo 22 anos y n tema son juegos de mesa ya que es mi interes y hobbie.
+El tema que les vengo a presentar son los juegos de mesa que se tiende
+a crear y las de interesa al publico.
+
+Diapositiva 2:
+La base de datos esta sacada de Kaggle, dejo el enlace en la presentacion por si a alguien le interesa 
+comprobar los datos o hechar le un vistazo.
+Gracias a las librerias:
+-Regex
+-Pandas
+-Seaborn/Matplotlib
+Y -Plotly
+Hice las graficas de continuacion.
+
+Diapositiva 3:
+Para hayar la respuesta final he tenido que hacer una serie de preguntas
+
+Diapositiva 4:
+La primera siendo cuantos juegos se crean al ano, como se puede observar hay una decaida, eso es debido 
+a la aparicion de los videojuegos, ya que esto hace que haya menos interes en los juegos de mesa, ademas 
+que con la venida del covid  que restringio el contaco entre amigos y familiares cosa que dificulta el jugar dichos juegos.
+
+-Pero cuantos hay de cada tipo??
+
+Diapositiva 5:
+Si aglomenamos todos desde 1960 hasta ahora vemos que se tienden a crear mayormentye wargame, a secuencia de family y estrategia,
+
+Pero de estos cuales les interesa al publico??
+
+Diapositiva 6:
+Con este grafico observamos que los consumidores tienden mas a gustarles los juegos de estrategia, family y thematic,
+a pesar de que haya más juegos de wargames , hay menos usuarios,por qué no tienden a ser muy llamativos, 
+debido a su complejidad mientras que las de estrategia y familia tienden ser más comprensivo para los jugadores
+
+Pero cual es la opinion de dichos tipos?
+
+Diapositiva 7:
+Con la obserbacion de que la valoracion escala segun avanza la tecnologia decidi coger la valoracion desde el 2000
+y solo aquellos que su valoracion supere el 8, con ello filtramos la cantidad de buenos juegos.
+
+Podemos observar que Wargames abunda, eso es debido a la cantidad creada, a diferencia de family o strategia,
+a pesar de ello vemos que sigue habiendo una gran cantidad, de valoracion de dichos juegos.
+
+Pero esto aun nos concierne, que es lo que hace especial a family, estrategia y las tematicas
+
+Diapositiva 8:
+Las mecanicas son un estilo de juego dentro de las tipos,ya sea para diversificarse, en las siguientes graficas obsevamos que
+dentro de estas graficas se repiten varias mecanias, eso no quiere decir que sean igual a su completo, pero si son los mas interesantes,
+en este caso la recoleccion de suministros y el manejo del mismo son uno ademas de mecanicas que depende de la suerte, como tirar los dados
+
+Diapositiva 9:
+jajajajaja
+
+Diapositiva 10:
+
+Los juegos que más se tienden a crear son juegos WarGame, además de ser la mayoría bien votados ,
+mientras que el consumidor le interesa juegos sencillos que se puedan jugar con Amigos/Familiares, 
+ya viene a ser con mecánicas sencillas como el manejo de provisiones o depender de la suerte mediante los dados.
+
+Esto no quiere decir que se gane más con este tipo de juegos ya que no he trabajado con esos datos, 
+si no que se tiende a crear más juegos WarGames a juegos de menor complejidad.
+
+Diapositiva 11:
+Fin
+
+
+
+
